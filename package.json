@@ -1,0 +1,39 @@
+{
+  "name": "company-profile-design",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@marsidev/react-turnstile": "^1.6.1",
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "critters": "^0.0.23",
+    "html-react-parser": "^5.1.18",
+    "lucide-react": "^1.27.0",
+    "mongoose": "^9.9.5",
+    "next": "14.2.14",
+    "nodemailer": "^9.0.5",
+    "react": "^18",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18",
+    "react-medium-image-zoom": "^5.4.8",
+    "react-slick": "^0.30.2",
+    "sharp": "^0.35.3",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.14"
+  },
+  "browserslist": [
+    "defaults and fully supports es6-module",
+    "not dead"
+  ]
+}
